@@ -1,0 +1,11 @@
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\bin\Debug\netcoreapp3.1\lab3.3.exe
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\bin\Debug\netcoreapp3.1\lab3.3.deps.json
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\bin\Debug\netcoreapp3.1\lab3.3.runtimeconfig.json
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\bin\Debug\netcoreapp3.1\lab3.3.runtimeconfig.dev.json
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\bin\Debug\netcoreapp3.1\lab3.3.dll
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\bin\Debug\netcoreapp3.1\lab3.3.pdb
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\obj\Debug\netcoreapp3.1\lab3.3.csprojAssemblyReference.cache
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\obj\Debug\netcoreapp3.1\lab3.3.AssemblyInfoInputs.cache
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\obj\Debug\netcoreapp3.1\lab3.3.AssemblyInfo.cs
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\obj\Debug\netcoreapp3.1\lab3.3.dll
+C:\Users\Lenovo X1 Carbon\source\repos\lab3.3\obj\Debug\netcoreapp3.1\lab3.3.pdb
